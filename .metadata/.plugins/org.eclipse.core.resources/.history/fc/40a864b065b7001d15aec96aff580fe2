@@ -1,0 +1,14 @@
+package exemple_array;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class type_triangleTest {
+
+	@Test
+	void test() {
+		fail("Not yet implemented");
+	}
+
+}

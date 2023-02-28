@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;exemple_array.triangle.java&apos; to &apos;type_triangle.java&apos;&#x0D;&#x0A;- Original project: &apos;PremierExempleJUnit&apos;&#x0D;&#x0A;- Original element: &apos;exemple_array.triangle.java&apos;&#x0D;&#x0A;- Renamed element: &apos;exemple_array.type_triangle.java&apos;" description="Rename compilation unit &apos;triangle.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;exemple_array{triangle.java" name="type_triangle.java" references="false" stamp="1677587570187" version="1.0"/>
+</session>

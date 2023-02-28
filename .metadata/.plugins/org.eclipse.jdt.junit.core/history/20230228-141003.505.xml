@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="SmallestIntegerFinderTest" project="PremierExempleJUnit" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="exemple_array.SmallestIntegerFinderTest" time="0.032" displayname="SmallestIntegerFinderTest" uniqueid="[engine:junit-jupiter]/[class:exemple_array.SmallestIntegerFinderTest]">
+    <testcase name="test" classname="exemple_array.SmallestIntegerFinderTest" time="0.032" displayname="test()" uniqueid="[engine:junit-jupiter]/[class:exemple_array.SmallestIntegerFinderTest]/[method:test()]"/>
+  </testsuite>
+</testrun>

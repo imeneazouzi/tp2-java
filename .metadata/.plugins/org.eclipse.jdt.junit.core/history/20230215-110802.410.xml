@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="ArraysManagerTest" project="PremierExempleJUnit" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="exemple_array.ArraysManagerTest" time="0.022" displayname="ArraysManagerTest" uniqueid="[engine:junit-jupiter]/[class:exemple_array.ArraysManagerTest]">
+    <testcase name="test" classname="exemple_array.ArraysManagerTest" time="0.022" displayname="test()" uniqueid="[engine:junit-jupiter]/[class:exemple_array.ArraysManagerTest]/[method:test()]"/>
+  </testsuite>
+</testrun>

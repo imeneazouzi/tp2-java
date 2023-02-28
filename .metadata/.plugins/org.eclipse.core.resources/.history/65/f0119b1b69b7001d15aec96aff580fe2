@@ -1,0 +1,14 @@
+package exemple_array;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class principaleTest {
+
+	@Test
+	void test() {
+		fail("Not yet implemented");
+	}
+
+}
